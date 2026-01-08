@@ -34,5 +34,5 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "cSpell.words": ["encomendas", "rocketlog"]
+  "cSpell.words": ["bitnami", "encomendas", "rocketlog"]
 }
