@@ -3,7 +3,6 @@ services:
     image: "bitnami/postgresql:latest"
     ports:
       - "5432:5432"
-    container_name: rocketlog_postgres
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
