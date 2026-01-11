@@ -31,7 +31,8 @@ class SessionsController {
       subject: user.id,
       expiresIn,
     })
-    return response.json({ token })
+    const { password: hashedPassword, ...userWithoutPassword } = user
+    return response.json({ token, user: userWithoutPassword })
   }
 }
 
