@@ -34,6 +34,6 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "cSpell.words": ["bitnami", "encomendas", "rocketlog"],
+  "cSpell.words": ["aqui", "bitnami", "encomendas", "Passou", "rocketlog"],
   "prisma.pinToPrisma6": true
 }
